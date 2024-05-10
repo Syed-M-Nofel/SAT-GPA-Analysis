@@ -32,3 +32,9 @@ Model performance is evaluated using metrics such as R-squared and mean squared 
 
 This repository serves as a comprehensive resource for conducting analyses related to SAT scores and GPAs in the context of university admissions. It includes code, visualizations, and documentation aimed at providing actionable insights for admissions decision-making.
 
+
+![image](https://github.com/Syed-M-Nofel/SAT-GPA-Analysis/assets/118352776/154b4b9f-999f-4a27-a7c3-853e89ea1359)
+
+
+
+
